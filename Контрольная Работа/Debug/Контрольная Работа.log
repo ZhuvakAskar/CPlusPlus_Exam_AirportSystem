@@ -1,0 +1,6 @@
+﻿  AirPort.cpp
+C:\Users\user\Desktop\DZ8Test\Контрольная Работа\AirPort.cpp(165,18): warning C4101: 'n1': unreferenced local variable
+  Airplane.cpp
+  Generating Code...
+C:\Users\user\Desktop\DZ8Test\Контрольная Работа\Airplane.cpp(88): warning C4715: 'Airplane::findpassegerfor': not all control paths return a value
+  Контрольная Работа.vcxproj -> C:\Users\user\Desktop\DZ8Test\Debug\Контрольная Работа.exe
